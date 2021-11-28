@@ -1,9 +1,18 @@
 #jumbotron {
-  padding-top: 6rem;
+  padding-top: 5rem;
 }
 .jumbotron img {
   width: 200px;
 }
 #navbar {
   background-color: rgba(21, 18, 192, 0.452);
+}
+#About {
+  padding-top: 6rem;
+}
+#Products {
+  padding-top: 6rem;
+}
+#social {
+  padding-top: 6rem;
 }
