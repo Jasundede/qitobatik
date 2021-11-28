@@ -1,0 +1,9 @@
+#jumbotron {
+  padding-top: 6rem;
+}
+.jumbotron img {
+  width: 200px;
+}
+#navbar {
+  background-color: rgba(21, 18, 192, 0.452);
+}
